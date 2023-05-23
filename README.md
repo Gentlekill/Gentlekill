@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Gentlekill
+- 👀 I’m interested in Frontend.
+- 🌱 I’m currently a frontend developer.
+- 📫 How to reach me xlx546413403@gmail.com
